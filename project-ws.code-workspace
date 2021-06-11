@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "public"
+		},
+		{
+			"path": "server"
+		},
+		{
+			"path": "peer-server"
+		}
+	],
+	"settings": {}
+}
